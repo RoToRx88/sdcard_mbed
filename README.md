@@ -1,2 +1,2 @@
 # sdcard_mbed
-# Simple example code to write data on a SDcard with the platformio project / libs pre-installed.
+Platformio project plug'n'play to write data on a SDCard.
